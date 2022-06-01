@@ -29,7 +29,7 @@ public class FizzBuzzConverterTest {
         Assert.assertEquals("Fizz", fizzBuzz.convert(3));
     }
     
-    @Test
+    /*@Test
     public void fizzBuzzConvertorMultiplesOfThree() {
 
         FizzBuzzConverter fizzBuzz = new FizzBuzzConverter();
